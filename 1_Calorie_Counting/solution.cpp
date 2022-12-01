@@ -1,5 +1,3 @@
-// read input.txt and add up each line. If there is an empty line append a 0
-
 #include <iostream>
 #include <fstream>
 #include <string>
